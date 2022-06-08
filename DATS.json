@@ -1,0 +1,163 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.6620796",
+        "identifierSource": "DOI"
+    },
+    "title": "MRI data for \"Stress-inducible phosphoprotein 1 (HOP/STI1/STIP1) regulates the spreading, aggregation, and toxicity of \u03b1-synuclein in vivo\"",
+    "creators": [
+        {
+            "name": "Lackie, Rachel E."
+        },
+        {
+            "name": "de Miranda, Aline S."
+        },
+        {
+            "name": "Lim, Mei Peng"
+        },
+        {
+            "name": "Novikov, Vladislav"
+        },
+        {
+            "name": "Madner, Nimrod"
+        },
+        {
+            "name": "Karunatilleke, Nadun C."
+        },
+        {
+            "name": "Rutledge, Benjamin S ."
+        },
+        {
+            "name": "Tullo, Stephanie"
+        },
+        {
+            "name": "Brickenden, Anne"
+        },
+        {
+            "name": "Maitland, Matthew E.R."
+        },
+        {
+            "name": "Greenberg, David"
+        },
+        {
+            "name": "Gallino, Daniel"
+        },
+        {
+            "name": "Luo, Wen"
+        },
+        {
+            "name": "Ataram, Anoosha"
+        },
+        {
+            "name": "Shlafer, Irina"
+        },
+        {
+            "name": "Del Cid Pellitero, Esther"
+        },
+        {
+            "name": "Schild-Poulter, Caroline"
+        },
+        {
+            "name": "Durcan, Thomas M."
+        },
+        {
+            "name": "Fon, Edward A."
+        },
+        {
+            "name": "Duennwald, Martin"
+        },
+        {
+            "name": "Beraldo,  Flavio H."
+        },
+        {
+            "name": "Chakravarty, M. Mallar"
+        },
+        {
+            "name": "Bussey, Timothy J."
+        },
+        {
+            "name": "Saksida, Lisa M."
+        },
+        {
+            "name": "Soreq, Hermona"
+        },
+        {
+            "name": "Choy, Wing-Yiu"
+        },
+        {
+            "name": "Prado, Vania F."
+        },
+        {
+            "name": "Prado, Marco A.M."
+        }
+    ],
+    "description": "<p>Repository for magnetic resonance imaging data from the project&nbsp;titled &quot;Stress-inducible phosphoprotein 1 (HOP/STI1/STIP1) regulates the spreading, aggregation, and toxicity of &alpha;-synuclein in vivo&quot;</p>\n\n<p>Contains the pre-processed ex vivo T1-weighted images (Bruker 7T; 70 micron isotropic voxel resolution) for WT mice, M83 homozygous, and M83 homozygous mice with one copy of the TPR transgene. Full subject list can be viewed with the&nbsp;prado_MRI_M83dTPR_subjectlist_final.csv file.</p>\n\n<p>Whole brain region segmentations are available for these mice. These labels were generated using the MAGeT-Brain segementation pipleine (https://github.com/CobraLab/MAGeTbrain) and using a modified/merged version of the Allen brain atlas. The full list of regions included can be found in the file named Allen_brain_mapping_final.csv.</p>\n\n<p>See readme.txt file for more information</p>",
+    "version": "None",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "CSV",
+                "MNC",
+                "TXT"
+            ],
+            "size": 731.6,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/6620797",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "47"
+                }
+            ]
+        }
+    ],
+    "dates": [
+        {
+            "date": "2022-06-07 20:51:49",
+            "type": {
+                "value": "date created"
+            }
+        },
+        {
+            "date": "2022-06-08 17:28:06",
+            "type": {
+                "value": "date modified"
+            }
+        }
+    ],
+    "types": [
+        {
+            "value": "imaging"
+        }
+    ]
+}
